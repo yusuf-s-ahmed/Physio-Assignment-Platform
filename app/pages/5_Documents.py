@@ -121,11 +121,11 @@ st.markdown("""
 st.title("Patient Document Management")
 
 # Database connection parameters
-db_user = "ty376miw198qbdtc"
-db_password = "mpnls4nyljjqrswz"
-db_host = "q7cxv1zwcdlw7699.chr7pe7iynqr.eu-west-1.rds.amazonaws.com"
-db_port = 3306
-db_database = "dn924vi9c6asl4zf"
+db_user = "------------"
+db_password = "-----------"
+db_host = "q---.eu-west-1.rds.amazonaws.com"
+db_port = ----
+db_database = "d---"
 
 # Function to connect to the database
 def connect_to_database():
